@@ -1,0 +1,3 @@
+*.spclient.wg.spotify.com
+*.apple.com
+*.youtube.com
